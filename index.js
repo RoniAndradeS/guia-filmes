@@ -12,7 +12,7 @@ let getMovie = () => {
 
     if (movieName.length <= 0) {
         result.innerHTML =
-            `<h3 class="msg"> Por favor coloque o nome do filme</h3>`;
+            `<h3 class="msg">Please put movie name.</h3>`;
     }
 
     //se o campo nao estive vazio
