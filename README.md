@@ -6,8 +6,15 @@ A movie guide where you can search for different movies contained in an API's da
 
 <hr></hr>
 
-<h2>How to run?</h2>
+<h2>Como rodar o projeto? // How to run?</h2>
 
 baixe os arquivos, coloque-os em uma pasta e abra o index.html
+
 download the files, put all the files in a folder and run the index.html
 
+<hr></hr>
+
+<ul>
+  <li>Result</li>
+  <li>https://roniswagger.github.io/guia-filmes/</li>
+</ul>
